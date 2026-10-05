@@ -14,3 +14,8 @@ because a reader should not have to guess.
   count only what the sponsor's wall sells, and every mainnet transaction.
 
 Faisal Firdani is responsible for all of it, including the parts a model wrote.
+
+
+## Example Usage
+
+Resolved parameter handling for issue #1.
