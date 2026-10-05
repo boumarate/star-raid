@@ -100,3 +100,8 @@ overrides older wording below; the R-tickets carry its fixes.
 - [ ] Technical demo video (3 min) and pitch video (2 min).
 - [ ] Portal: target users, evidence of demand, retention plan for Kuru; judge access instructions.
 - [ ] Share the repo with `metropolis@hackathon.monad.xyz`.
+
+
+## Example Usage
+
+Resolved parameter handling for issue #9.
