@@ -1,0 +1,19 @@
+# Local only, never committed. The spec carries the odds table (SPEC §3) and the portal
+# directory carries the verbatim track and bounty texts; neither belongs in a public repo.
+SPEC.md
+DEMO.md
+QA.md
+storyboard.html
+portal/
+drafts.md
+SESSION-PROMPT.md
+
+# scratch
+scratchpad/
+node_modules/
+.env
+.env.*
+out/
+cache/
+broadcast/
+.DS_Store
